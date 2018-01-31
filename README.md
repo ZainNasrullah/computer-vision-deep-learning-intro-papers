@@ -14,11 +14,11 @@ The list of assigned papers and a short description can be found below. Each wee
 **Deformable Convolutional Network (June, 2017)**
 
 ## Week 2
-**In-Place Activated BatchNorm for Memory Optimized Training (2017) (Reviewed)**
+**In-Place Activated BatchNorm for Memory Optimized Training (December, 2017) (Reviewed)**
 
 **YOLO9000: Better, Faster, Stronger (December, 2016) (Reviewed)**
 
-**MultiScale Context Aggregation By Dilated Convolutions (April 2016)**
+**MultiScale Context Aggregation By Dilated Convolutions (April, 2016)**
 
 ## Week 3
 
