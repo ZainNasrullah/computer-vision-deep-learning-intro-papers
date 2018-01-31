@@ -7,23 +7,23 @@ The list of assigned papers and a short description can be found below. Each wee
 2. All papers are annotated with highlights.
 
 ## Week 1
-**DeepLab Semantic Image Segmentation with CNN Atrous Convolution CRF (Reviewed)**
+**DeepLab Semantic Image Segmentation with CNN Atrous Convolution CRF (May, 2017) (Reviewed)**
 
-**Dynamic Routing Between Capsules (Reviewed)**
+**Dynamic Routing Between Capsules (November, 2017) (Reviewed)**
 
-**Deformable Convolutional Network**
+**Deformable Convolutional Network (June, 2017)**
 
 ## Week 2
-**In-Place Activated BatchNorm for Memory Optimized Training (Reviewed)**
+**In-Place Activated BatchNorm for Memory Optimized Training (2017) (Reviewed)**
 
-**YOLO9000: Better, Faster, Stronger (Reviewed)**
+**YOLO9000: Better, Faster, Stronger (December, 2016) (Reviewed)**
 
-**In-Place Activated BatchNorm for Memory Optimized Training**
+**MultiScale Context Aggregation By Dilated Convolutions (April 2016)**
 
 ## Week 3
 
-**Deep Watershed Transform for Instance Segmentation (Reviewed)**
+**Deep Watershed Transform for Instance Segmentation (May, 2017) (Reviewed)**
 
-**Mask R-CNN (Reviewed)**
+**Mask R-CNN (January, 2018) (Reviewed)**
 
 
