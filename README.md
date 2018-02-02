@@ -56,7 +56,7 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 
 **MultiScale Context Aggregation By Dilated Convolutions (April, 2016)**
 - Proposes the use of Dilated Convolutions (using larger filter map with k non-zero values) to aggregate multi-scale information without loss of resolution. Based on the fact that dilated convolutions can exponentially expand the receptive field without loss of resolution or coverage.
-    - A1 1-dilated convolution is the same as an ordinary convolution. A 2-dilated adds a single zero pixel between all pixels in the filter map thus increasing hte receptive field of a 3x3 filter to 7x7. Similarly, a 4-dilated convolution (three zero pixels between filter map pixels) transforms a 3x3 filter to 15x15. The receptive field grows exponentially while the number of parameters grow linearly.
+    - A 1-dilated convolution is the same as an ordinary convolution. A 2-dilated adds a single zero pixel between all pixels in the filter map thus increasing hte receptive field of a 3x3 filter to 7x7. Similarly, a 4-dilated convolution (three zero pixels between filter map pixels) transforms a 3x3 filter to 15x15. The receptive field grows exponentially while the number of parameters grow linearly.
 - Proposes a Context module that takes advantage of different dilation factors.
     - Found that identify initialization (each layer passes the input forward) was more effective than random initialization
 - Proposes a Front-End module that removes pooling layers and experimentally obtains better dense prediction accuracy. The rationale behind this is that certain aspects of the classification network aren't applicible to dense prediction.
