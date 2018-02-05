@@ -68,4 +68,15 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 
 **Mask R-CNN (January, 2018) (Reviewed)**
 
+## Week 4
+
+**The Reversible Residual Network: Backpropagation Without Storing Activations (July, 2017)**
+
+**Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching (August, 2017)**
+
+**Efficient Deep Learning for Stereo Matching (2016)**
+
+**FlowNet: Learning Optical Flow with Convolutional Networks (May, 2015)**
+
+
 
