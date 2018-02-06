@@ -78,5 +78,3 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 
 **FlowNet: Learning Optical Flow with Convolutional Networks (May, 2015)**
 
-
-
