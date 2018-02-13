@@ -70,11 +70,21 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 
 ## Week 4
 
-**The Reversible Residual Network: Backpropagation Without Storing Activations (July, 2017)**
+**The Reversible Residual Network: Backpropagation Without Storing Activations (July, 2017) (Reviewed)**
 
-**Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching (August, 2017)**
+**Cascade Residual Learning: A Two-stage Convolutional Neural Network for Stereo Matching (August, 2017) (Reviewed)**
 
 **Efficient Deep Learning for Stereo Matching (2016)**
 
 **FlowNet: Learning Optical Flow with Convolutional Networks (May, 2015)**
+
+## Week 5
+
+**Detect to Track and Track to Detect (October, 2017) (Reviewed)**
+**Global Data Association for Multi-Object Tracking Using Network Flows (June, 2008) (Reviewed)**
+**Aligning Plot Synopses to Video (2015)**
+**Book2Movie (2015)**
+**Semisupervised Learning for Person Identification (2013)**
+**Automatic Naming of Characters in TV Video (2006)**
+
 
