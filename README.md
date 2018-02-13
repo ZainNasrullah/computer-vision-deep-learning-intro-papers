@@ -81,10 +81,15 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 ## Week 5
 
 **Detect to Track and Track to Detect (October, 2017) (Reviewed)**
+
 **Global Data Association for Multi-Object Tracking Using Network Flows (June, 2008) (Reviewed)**
+
 **Aligning Plot Synopses to Video (2015)**
+
 **Book2Movie (2015)**
+
 **Semi-supervised Learning with Constraints for Person Identification in Multimedia Data (2013)**
+
 **Automatic Naming of Characters in TV Video (2006)**
 
 
