@@ -84,7 +84,7 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 **Global Data Association for Multi-Object Tracking Using Network Flows (June, 2008) (Reviewed)**
 **Aligning Plot Synopses to Video (2015)**
 **Book2Movie (2015)**
-**Semisupervised Learning for Person Identification (2013)**
+**Semi-supervised Learning with Constraints for Person Identification in Multimedia Data (2013)**
 **Automatic Naming of Characters in TV Video (2006)**
 
 
