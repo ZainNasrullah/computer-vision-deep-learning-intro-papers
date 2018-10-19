@@ -6,7 +6,7 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 1. The number preceding each filename denotes which week it was assigned.
 2. All papers are annotated with highlights identifying bits that I found important.
 
-**Update 2018/10/19**: I realized that I never finished uploading things here! All weeks have now been added. See the reading list below. s
+**Update 2018/10/19**: I realized that I never finished uploading things here! All weeks have now been added. See the reading list below.
 
 ## Week 1
 **DeepLab Semantic Image Segmentation with CNN Atrous Convolution CRF (May, 2017) (Reviewed)**
