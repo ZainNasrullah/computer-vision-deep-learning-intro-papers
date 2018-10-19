@@ -1,12 +1,13 @@
-# Machine Learning in Computer Vision Paper List
+# Machine Learning in Computer Vision
 
-The list of assigned papers and some brief notes can be found below. Each week, two of the assigned papers are also briefly reviewed.
+Interested in learning about deep learning and computer vision? Read some cool papers! As part of CSC2548 at the University of Toronto, we read the papers in this repository. The list and some brief notes can be found below. Each week, two of the assigned papers were also reviewed.
 
 *Notes about the repository:*
 1. The number preceding each filename denotes which week it was assigned.
-2. All papers are annotated with highlights identifying bits that I found important.
-
-**Update 2018/10/19**: I realized that I never finished uploading things here! All weeks have now been added. See the reading list below.
+    e.g (Week - PaperName.pdf)
+2. Every pdf in the Papers folder is annotated with color highlights identifying ideas that I found important in understanding the papers.
+s
+**Update 2018/10/19**: I realized that I never finished uploading things here! All weeks have now been added.
 
 ## Week 1
 **DeepLab Semantic Image Segmentation with CNN Atrous Convolution CRF (May, 2017) (Reviewed)**
