@@ -6,7 +6,7 @@ Interested in learning about deep learning and computer vision? Read some cool p
 1. The number preceding each filename denotes which week it was assigned.
     e.g (Week - PaperName.pdf)
 2. Every pdf in the Papers folder is annotated with color highlights identifying ideas that I found important in understanding the papers.
-s
+
 **Update 2018/10/19**: I realized that I never finished uploading things here! All weeks have now been added.
 
 ## Week 1
