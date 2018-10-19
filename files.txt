@@ -1,0 +1,31 @@
+1 - DeepLab Semantic Image Segmentation with CNN Atrous Convolution CRF
+1 - Deformable convolutional network
+1 - dynamic routing between capsules
+2 - In-Place Activated BatchNorm for Memory Optimized Training
+2 - MultiScale Context Aggregation By Dilated Convolutions
+2 - YOLO9000
+3 - Deep Watershed Transform for Instance Segmentation
+3 - Mask R-CNN
+4 - Cascade Residual Learning Two-stage Convolutional Neural Network for Stereo Matching
+4 - Efficient Deep Learning for Stereo Matching
+4 - FlowNet Learning Optical Flow with Convolutional Network
+4 - The Reversible Residual Network (Backprop Without Storing Activations)
+5 - Aligning Plot Synopses to Video (IJMIR_plot-retrieval)
+5 - Automatic Naming of Characters in TV Video
+5 - Book2Movie CVPR2015
+5 - Detect to Track and Track to Detect
+5 - Global Data Association for Multi-Object Tracking Using Network Flows
+5 - Semisupervised Learning for Person Identification CVPR2013
+6 - Learning Spatiotemporal Features with 3D Convolutional Networks
+6 - Real-Time User-Guided Image Colorization with learned Deep Priors
+6 - Temporal Relational Reasoning in Videos
+6 - Two-Stream Convolutional Networks for Action Recognition in Videos
+7 - Look, Listen and Learn
+7 - Self-Critical Sequence Training for Image Captioning
+7 - Show, Attend and Tell Neural Image Caption Generation with Visual Attention
+7 - SoundNet Learning Sound Representations from Unlabeled Video
+8 - Ask Your Neurons A Neural-Based Approach to Answering Questions about Images
+8 - Deep Compositional Question Answering with neural Module Networks
+8 - Learning to Reason End-to-End Module Networks for Visual Question Answering
+8 - Visual Question Answering Learnings From the 2017 Challenge
+9 - EXPLAINING_AND_HARNESSING_ADVERSARIAL_EXAMPLES

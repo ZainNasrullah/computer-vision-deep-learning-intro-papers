@@ -2,9 +2,11 @@
 
 The list of assigned papers and some brief notes can be found below. Each week, two of the assigned papers are also briefly reviewed.
 
-*Notes About the Repository:*
+*Notes about the repository:*
 1. The number preceding each filename denotes which week it was assigned.
-2. All papers are annotated with highlights.
+2. All papers are annotated with highlights identifying bits that I found important.
+
+**Update 2018/10/19**: I realized that I never finished uploading things here! All weeks have now been added. See the reading list below. s
 
 ## Week 1
 **DeepLab Semantic Image Segmentation with CNN Atrous Convolution CRF (May, 2017) (Reviewed)**
@@ -62,6 +64,8 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 - Proposes a Front-End module that removes pooling layers and experimentally obtains better dense prediction accuracy. The rationale behind this is that certain aspects of the classification network aren't applicible to dense prediction.
     - Outperforms prior models (including Deeplab) on VOC-2012.
 
+**(For additional summaries, please see the reviews folder or open up the annotated pdfs)**
+
 ## Week 3
 
 **Deep Watershed Transform for Instance Segmentation (May, 2017) (Reviewed)**
@@ -92,4 +96,48 @@ The list of assigned papers and some brief notes can be found below. Each week, 
 
 **Automatic Naming of Characters in TV Video (2006)**
 
+## Week 6
+**Learning Spatiotemporal Features with 3D Convolutional Networks (October, 2015)**
+
+
+**Real-Time User-Guided Image Colorization with learned Deep Priors (May 2017) (Reviewed)**
+
+
+**Temporal Relational Reasoning in Videos (November, 2017) (Reviewed)**
+
+
+**Two-Stream Convolutional Networks for Action Recognition in Videos (November, 2014)**
+
+
+
+## Week 7
+**Look, Listen and Learn (August, 2017) (Reviewed)**
+
+
+**Self-Critical Sequence Training for Image Captioning (November, 2017)**
+
+
+**Show, Attend and Tell Neural Image Caption Generation with Visual Attention (April, 2016)**
+
+
+**SoundNet Learning Sound Representations from Unlabeled Video (October, 2016) (Reviewed)**
+
+
+
+## Week 8
+**Ask Your Neurons A Neural-Based Approach to Answering Questions about Images (October, 2015)**
+
+
+**Deep Compositional Question Answering with neural Module Networks (July, 2017) (Reviewed)**
+
+
+**Learning to Reason End-to-End Module Networks for Visual Question Answering (September, 2017) (Reviewed)**
+
+
+**Visual Question Answering Learnings From the 2017 Challenge (August, 2017) (Reviewed)**
+
+
+
+## Week 9
+**EXPLAINING_AND_HARNESSING_ADVERSARIAL_EXAMPLES (March, 2018)**
 
